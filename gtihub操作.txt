@@ -1,0 +1,12 @@
+1.设置代理：https:
+2.git clone 仓库的http地址
+3.本地将需要改的文件放入
+4. git add + 修改的文件夹
+5.git commit -m “本次提交的信息” +文件夹名称
+6.git push ”仓库地址” main
+
+1.git pull 仓库地址
+2.本地将需要改的文件放入
+3. git add + 修改的文件夹
+4.git commit -m “本次提交的信息” +文件夹名称
+5.git push ”仓库地址” main
